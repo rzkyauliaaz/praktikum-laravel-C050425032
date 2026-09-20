@@ -59,3 +59,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Praktikum Pemrograman Web
+
+# Praktikum Laravel C050425032
+
+## Deskripsi
+
+Proyek praktikum Pemrograman Web menggunakan Laravel.
+Proyek ini digunakan untuk mempelajari pengembangan aplikasi web menggunakan framework Laravel.
+
+## Cara Menjalankan Proyek
+
+1. Install dependency:
+
+```bash
+composer install
+```
+
+2. Jalankan migrasi dan seeder database:
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+3. Jalankan server Laravel:
+
+```bash
+php artisan serve
+```
