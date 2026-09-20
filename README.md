@@ -88,3 +88,5 @@ php artisan serve
 ```
 ## Update Praktikum 6
 Repository berhasil disinkronkan menggunakan Git Pull.
+
+Perubahan ini dibuat untuk simulasi Git Pull.
