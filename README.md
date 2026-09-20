@@ -86,3 +86,5 @@ php artisan migrate:fresh --seed
 ```bash
 php artisan serve
 ```
+## Update Praktikum 6
+Repository berhasil disinkronkan menggunakan Git Pull.
