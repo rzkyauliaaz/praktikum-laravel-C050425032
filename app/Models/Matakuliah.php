@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Matakuliah extends Model
 {
+    // Model untuk mengelola data mata kuliah
     use HasFactory;
 
     protected $fillable = [
